@@ -1,0 +1,533 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.4.1)  6 APR 2017 16:29
+entering extended mode
+**G:/DNet/DNet.tex
+(G:/DNet/DNet.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(G:\DNet\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 503.
+
+(I:\CTEX\MiKTeX\tex\latex\psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (I:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(I:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(I:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(I:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(I:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(I:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(I:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(I:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(I:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip44
+\subfigcapskip=\skip45
+\subfigcaptopadj=\dimen128
+\subfigbottomskip=\skip46
+\subfigcapmargin=\dimen129
+\subfiglabelskip=\skip47
+\c@subfigure=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@lotdepth=\count98
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(I:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip48
+\subfig@bottom=\skip49
+)
+(I:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(I:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(I:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen130
+))
+(I:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen131
+)
+(I:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen132
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks17
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks18
+\eqnshift@=\dimen133
+\alignsep@=\dimen134
+\tagshift@=\dimen135
+\tagwidth@=\dimen136
+\totwidth@=\dimen137
+\lineht@=\dimen138
+\@envbody=\toks19
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(I:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(I:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(I:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks26
+)
+(I:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen139
+)
+(I:\CTEX\MiKTeX\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+) (G:\DNet\DNet.aux
+
+LaTeX Warning: Label `fig:digit' multiply defined.
+
+
+LaTeX Warning: Label `fig:digit' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:digit' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+-- Lines per column: 61 (exact).
+(I:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen140
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen141
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks28
+)
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 72.
+ (I:\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 72.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 72.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+
+(I:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+
+(I:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 72
+.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 72.
+
+(I:\CTEX\MiKTeX\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 80.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
+
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 80.
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ® in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+ [1{I:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+
+]
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 98.
+
+ <density1.png, id=10, 140.2695pt x 93.294pt>
+File: density1.png Graphic file (type png)
+
+<use density1.png>
+Package pdftex.def Info: density1.png used on input line 111.
+(pdftex.def)             Requested size: 72.26999pt x 48.06758pt.
+ <density2.png, id=11, 127.7865pt x 85.0815pt>
+File: density2.png Graphic file (type png)
+
+<use density2.png>
+Package pdftex.def Info: density2.png used on input line 118.
+(pdftex.def)             Requested size: 72.26999pt x 48.11916pt.
+ <density0.png, id=12, 140.2695pt x 93.294pt>
+File: density0.png Graphic file (type png)
+
+<use density0.png>
+Package pdftex.def Info: density0.png used on input line 125.
+(pdftex.def)             Requested size: 72.26999pt x 48.06758pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 129.
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+ <test.png, id=13, 538.01pt x 371.3875pt>
+File: test.png Graphic file (type png)
+ <use test.png>
+Package pdftex.def Info: test.png used on input line 135.
+(pdftex.def)             Requested size: 113.80637pt x 85.35498pt.
+
+[2 <G:/DNet/density1.png> <G:/DNet/density2.png> <G:/DNet/density0.png> <G:/DNe
+t/test.png (PNG copy)>]
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+ <result4.png, id=30, 1204.5pt x 427.5975pt>
+File: result4.png Graphic file (type png)
+
+<use result4.png>
+Package pdftex.def Info: result4.png used on input line 175.
+(pdftex.def)             Requested size: 258.96245pt x 113.80865pt.
+
+Overfull \hbox (6.01746pt too wide) in paragraph at lines 175--176
+ [][] 
+ []
+
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+[3 <G:/DNet/result4.png (PNG copy)>]
+<result1aa.png, id=34, 1506.62875pt x 576.1525pt>
+File: result1aa.png Graphic file (type png)
+ <use result1aa.png>
+Package pdftex.def Info: result1aa.png used on input line 186.
+(pdftex.def)             Requested size: 258.95117pt x 113.80424pt.
+
+Overfull \hbox (6.00618pt too wide) in paragraph at lines 186--187
+ [][] 
+ []
+
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+<48024.png, id=35, 663.47874pt x 581.17125pt>
+File: 48024.png Graphic file (type png)
+ <use 48024.png>
+Package pdftex.def Info: 48024.png used on input line 201.
+(pdftex.def)             Requested size: 113.80228pt x 99.57819pt.
+
+<48024a.png, id=36, 708.6475pt x 668.4975pt>
+File: 48024a.png Graphic file (type png)
+ <use 48024a.png>
+Package pdftex.def Info: 48024a.png used on input line 208.
+(pdftex.def)             Requested size: 113.80762pt x 99.57666pt.
+
+Overfull \hbox (10.6798pt too wide) in paragraph at lines 201--209
+[][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.40988pt too wide) in paragraph at lines 218--233
+[][] 
+ []
+
+Missing character: There is no ¨ in font pplr7t!
+
+Underfull \hbox (badness 1845) in paragraph at lines 238--239
+[]\OT1/ppl/m/n/9.53561 The s-tudy about RB-M5 sug-gest that RBM6-RBM5
+ []
+
+[4 <G:/DNet/result1aa.png (PNG copy)> <G:/DNet/48024.png (PNG copy)> <G:/DNet/4
+8024a.png (PNG copy)>]
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ° in font pplr7t!
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
+ <19886_red.png, id=40, 1226.5825pt x 583.17876pt>
+File: 19886_red.png Graphic file (type png)
+
+<use 19886_red.png>
+Package pdftex.def Info: 19886_red.png used on input line 243.
+(pdftex.def)             Requested size: 181.2804pt x 86.18274pt.
+Missing character: There is no ¡ in font pplr7t!
+Missing character: There is no ¯ in font pplr7t!
+ (G:\DNet\DNet.bbl
+Underfull \hbox (badness 1629) in paragraph at lines 68--75
+[]\OT1/ppl/m/n/8.03 M Pesca-tori, A Broc-col-i-n-i, C Minet-ti, E Berti-ni, C B
+runo,
+ []
+
+[5 <G:/DNet/19886_red.png (PNG copy)>]) [6
+
+] (G:\DNet\DNet.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3377 strings out of 495354
+ 48339 string characters out of 3183860
+ 109928 words of memory out of 3000000
+ 6494 multiletter control sequences out of 15000+200000
+ 49754 words of font info for 117 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 30i,8n,31p,3044b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+{I:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<I:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><I:/CTEX/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi7.pfb><I:/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><I:/CTEX/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><I:/CTEX/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><I:/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/symbols/msam10.pfb><I:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbo
+ls/msam7.pfb><I:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><I:/CTEX/MiKTe
+X/fonts/type1/urw/helvetic/uhvr8a.pfb><I:/CTEX/MiKTeX/fonts/type1/urw/helvetic/
+uhvro8a.pfb><I:/CTEX/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><I:/CTEX/MiKTeX
+/fonts/type1/urw/palatino/uplri8a.pfb><I:/CTEX/MiKTeX/fonts/type1/urw/zapfding/
+uzdr.pfb>
+Output written on DNet.pdf (6 pages, 749916 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

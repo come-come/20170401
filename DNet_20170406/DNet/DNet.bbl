@@ -1,0 +1,145 @@
+\begin{thebibliography}{10}
+
+\bibitem{khatri2005ontological}
+Purvesh Khatri and Sorin Dr{\u{a}}ghici.
+\newblock Ontological analysis of gene expression data: current tools,
+  limitations, and open problems.
+\newblock {\em Bioinformatics}, 21(18):3587--3595, 2005.
+
+\bibitem{soh2011finding}
+Donny Soh, Difeng Dong, Yike Guo, and Limsoon Wong.
+\newblock Finding consistent disease subnetworks across microarray datasets.
+\newblock {\em BMC bioinformatics}, 12(13):S15, 2011.
+
+\bibitem{Lim2014Finding}
+K~Lim and L~Wong.
+\newblock Finding consistent disease subnetworks using pfsnet.
+\newblock {\em Bioinformatics}, 30(2):189--196, 2014.
+
+\bibitem{Califano2011Leveraging}
+Andrea Califano, Atul~J Butte, Stephen Friend, Trey Ideker, and Eric Schadt.
+\newblock Leveraging models of cell regulation and gwas data in integrative
+  network-based association studies.
+\newblock {\em Nature Genetics}, 44(44):841--847, 2011.
+
+\bibitem{yu2016translation}
+Michael~Ku Yu, Michael Kramer, Janusz Dutkowski, Rohith Srivas, Katherine
+  Licon, Jason~F Kreisberg, Cherie~T Ng, Nevan Krogan, Roded Sharan, and Trey
+  Ideker.
+\newblock Translation of genotype to phenotype by a hierarchy of cell
+  subsystems.
+\newblock {\em Cell systems}, 2(2):77--88, 2016.
+
+\bibitem{coleman1983estimation}
+Thomas~F Coleman and Jorge~J Mor{\'e}.
+\newblock Estimation of sparse jacobian matrices and graph coloring blems.
+\newblock {\em SIAM journal on Numerical Analysis}, 20(1):187--209, 1983.
+
+\bibitem{biggs1976graph}
+Norman Biggs, E~Keith Lloyd, and Robin~J Wilson.
+\newblock {\em Graph Theory, 1736-1936}.
+\newblock Oxford University Press, 1976.
+
+\bibitem{armstrong2002mll}
+Scott~A Armstrong, Jane Staunton, Lewis~B Silverman, Rob Pieters, Monique~L
+  Den~Boer, Mark~D Minden, Stephen~E Sallan, Eric~S Lander, Todd~R Golub, and
+  Stanley~J Korsmeyer.
+\newblock Mll translocations specify a distinct gene expression profile that
+  distinguishes a unique leukemia.
+\newblock {\em Nature Genetics}, 30(1):41--47, 2002.
+
+\bibitem{golub1999molecular}
+Todd~R Golub, Donna~K Slonim, Pablo Tamayo, C~Huard, Michelle Gaasenbeek,
+  Jill~P Mesirov, Hendrik Van~Coller, Mignon~L Loh, James~R Downing, Michael~A
+  Caligiuri, et~al.
+\newblock Molecular classification of cancer : Class discovery and class
+  prediction by gene expression monitoring.
+\newblock {\em Science}, 286(5439):531--537, 1999.
+
+\bibitem{haslett2002gene}
+Judith~N Haslett, Despina Sanoudou, Alvin~T Kho, Richard~R Bennett, Steven~A
+  Greenberg, Isaac~S Kohane, Alan~H Beggs, and Louis~M Kunkel.
+\newblock Gene expression comparison of biopsies from duchenne muscular
+  dystrophy (dmd) and normal skeletal muscle.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 99(23):15000--15005, 2002.
+
+\bibitem{Pescatori2007Gene}
+M~Pescatori, A~Broccolini, C~Minetti, E~Bertini, C~Bruno, A~D'Amico,
+  C~Bernardini, M~Mirabella, G~Silvestri, and V~Giglio.
+\newblock Gene expression profiling in the early phases of dmd: a constant
+  molecular signature characterizes dmd muscle from early postnatal life
+  throughout disease progression.
+\newblock {\em Faseb Journal Official Publication of the Federation of American
+  Societies for Experimental Biology}, 21(4):1210, 2007.
+
+\bibitem{lovering2009improvements}
+Ruth~C Lovering, Emily~C Dimmer, and Philippa~J Talmud.
+\newblock Improvements to cardiovascular gene ontology.
+\newblock {\em Atherosclerosis}, 205(1):9--14, 2009.
+
+\bibitem{Zheng2014Gene}
+Y.~Zheng, J.~Zhou, and Y.~Tong.
+\newblock Gene signatures of drug resistance predict patient survival in
+  colorectal cancer.
+\newblock {\em Pharmacogenomics Journal}, 15(2):135--143, 2014.
+
+\bibitem{garraway2013lessons}
+Levi~A Garraway and Eric~S Lander.
+\newblock Lessons from the cancer genome.
+\newblock {\em Cell}, 153(1):17--37, 2013.
+
+\bibitem{shepard2009the}
+Peter~J Shepard and Klemens~J Hertel.
+\newblock The sr protein family.
+\newblock {\em Genome Biology}, 10(10):242--242, 2009.
+
+\bibitem{holm2015reversion}
+Frida Holm, Eva Hellqvist, Cayla~N Mason, Shawn~A Ali, Nathaniel Delos-Santos,
+  Christian~L Barrett, Hye-Jung Chun, Mark~D Minden, Richard~A Moore, Marco~A
+  Marra, et~al.
+\newblock Reversion to an embryonic alternative splicing program enhances
+  leukemia stem cell self-renewal.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(50):15444--15449, 2015.
+
+\bibitem{rozovski2013significance}
+Uri Rozovski, Michael Keating, and Zeev Estrov.
+\newblock The significance of spliceosome mutations in chronic lymphocytic
+  leukemia.
+\newblock {\em Leukemia \& lymphoma}, 54(7):1364--1366, 2013.
+
+\bibitem{gentien2014common}
+D~Gentien, O~Kosmider, F~Nguyen-Khac, B~Albaud, A~Rapinat, AG~Dumont, F~Damm,
+  T~Popova, R~Marais, M~Fontenay, et~al.
+\newblock A common alternative splicing signature is associated with sf3b1
+  mutations in malignancies from different cell lineages.
+\newblock {\em Leukemia}, 28(6):1355, 2014.
+
+\bibitem{tian2015sf3a1}
+Jing Tian, Yaping Liu, Beibei Zhu, Yao Tian, Rong Zhong, Wei Chen, Xinghua Lu,
+  Li~Zou, Na~Shen, Jiaming Qian, et~al.
+\newblock Sf3a1 and pancreatic cancer: new evidence for the association of the
+  spliceosome and cancer.
+\newblock {\em Oncotarget}, 6(35):37750, 2015.
+
+\bibitem{wang2007rbm6}
+Ke~Wang, Gino Ubriaco, and Leslie~C Sutherland.
+\newblock Rbm6-rbm5 transcription-induced chimeras are differentially expressed
+  in tumours.
+\newblock {\em BMC genomics}, 8(1):348, 2007.
+
+\bibitem{national1971muscular}
+National~Institute of~Neurological~Diseases and Stroke.
+\newblock {\em Muscular Dystrophy: Hope Through Research}.
+\newblock Information Office, National Institute of Neurological Diseases and
+  Stroke, 1971.
+
+\bibitem{sensi1984impaired}
+A~Sensi, A~Venturoli, S~Traniello, M~Lucci, C~Vullo, C~Conighi, PL~Mattiuz, and
+  OR~B{\aa}ricordi.
+\newblock Impaired hla capping capacity of peripheral blood lymphocytes in
+  duchenne muscular dystrophy.
+\newblock {\em Journal of medical genetics}, 21(3):182--185, 1984.
+
+\end{thebibliography}
